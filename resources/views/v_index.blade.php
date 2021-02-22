@@ -20,6 +20,8 @@
                          <a class="btn btn-info btn-sm" href="/index/kelas">Data Siswa</a>
                         |
                         <a class="btn btn-info btn-sm" href="/index/transaksi">Transaksi</a>
+                        |
+                        <a class="btn btn-success btn-sm" href="/index/kontak">Kontak</a>
                         |    
                         <a class="btn btn-danger btn-sm" href="/Logout">Logout</a>
 
